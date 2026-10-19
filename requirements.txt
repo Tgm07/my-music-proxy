@@ -1,1 +1,3 @@
-fastapi\nuvicorn\nhttpx
+fastapi
+uvicorn
+httpx
