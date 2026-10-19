@@ -10,7 +10,7 @@ async def get_download(videoId: str):
     target_api = f"https://rapidapi.com{youtube_url}"
     
     headers = {
-        "x-rapidapi-key": "YOUR_ACTUAL_RAPIDAPI_KEY_HERE", # Replace this text with your exact key string
+        "x-rapidapi-key": "03bd2a143emshccdb36e550193fdp1cb1afjsnbaee8adb9e88", # Replace this text with your exact key string
         "x-rapidapi-host": "://rapidapi.com",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
         "Accept": "application/json"
